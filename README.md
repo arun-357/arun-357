@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arun-357
 - 💻 Blending IoT innovation with smart home systems. 
-- 💪🏼 Node.js, React.js, Typescript.js, Python
-- ⚙️ Microservices, AWS, Energy Star Certificaton, Docker. 
+- 💪🏼 Node.js, React.js, Python
+- ⚙️ Microservices, AWS, Serverles Framework, Docker. 
 - 🚀 You’re looking at someone who can dive into any framework and well-versed it in just a few days. 
 - ⚡ Fun fact: I’m making the Earth cooler—literally! by optimizing energy usage in HVAC systems and contributing to clean energy solutions 🌍❄️.
 
