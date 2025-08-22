@@ -61,6 +61,10 @@ class GodObject:
 
 ## Featured Projects
 
+- **[Food Lens](https://food-lens-frontend.onrender.com/)** –  
+  *Food Lens is a full‑stack, AI-powered app that analyzes food names to deliver concise descriptions, ingredients, benefits, and images.*
+  GitHub: [https://github.com/arun-357/food-lens-backend](https://github.com/arun-357/food-lens-backend)
+
 - **[LeetCode Flashcards](https://leetcode-flashcards.netlify.app/)** –  
   *Interactive, responsive flashcard app for LeetCode patterns built with React.js, Chakra UI, and web scraping (BeautifulSoup).*  
   GitHub: [https://github.com/arun-357/leetcode-flashcards](https://github.com/arun-357/leetcode-flashcards)
