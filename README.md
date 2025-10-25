@@ -1,6 +1,6 @@
 # 👋 I'm Arunachalam  
 
-- **Backend Engineer | Full Stack Enthusiast | Problem Solver**  
+- **Full Stack Engineer | Problem Solver**  
 - Specializing in **JavaScript**, **TypeScript**, **Java (Spring Boot)**, and **Python (FastAPI)**  
 - Passionate about **scalable backend architectures**, **clean code**, and **system design**.
 
