@@ -51,15 +51,14 @@
 ---
 
 ## What I Focus On
-- Designing **scalable, fault-tolerant backend architectures**
-- Implementing **clean, test-driven code**
-- API design best practices (**REST**, GraphQL coming soon...)
-- Database optimization & caching strategies
-- Cross-functional collaboration in **Agile/Scrum** teams
-- **Balancing performance and maintainability** in large-scale distributed systems
-- Interest in **system design patterns**, **problem-solving**, and **continuous learning**
-- Skilled in **GitHub Copilot** for accelerated development, AI-assisted debugging, and improving code quality  
-- Completed **Prompt Engineering training**, enabling efficient AI-assisted development workflows and technical problem solving
+- Building **end-to-end full-stack features** — from responsive React/Next.js UIs to NestJS microservices and cloud infrastructure
+- Designing **scalable, fault-tolerant backend architectures** that handle real production load (500K+ MAU, 100K+ daily users)
+- **API design best practices** — REST, clean contracts, versioning, and observability
+- **Database optimization & caching strategies** — query tuning, Redis, Kafka-based event pipelines
+- Shipping **AI-powered products** — agentic systems, LLM integrations, and prompt engineering
+- Writing **clean, maintainable code** with strong type safety and meaningful test coverage
+- **System design & distributed systems** — microservices, event-driven architecture, fault tolerance
+- Cross-functional collaboration in **Agile/Scrum** teams across frontend, backend, and platform
 
 ---
 
