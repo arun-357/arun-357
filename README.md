@@ -1,4 +1,4 @@
-# 👋 I'm Arunachalam  
+# WHOAMI
 
 - **Full Stack Engineer | Problem Solver**  
 - Specializing in **JavaScript**, **TypeScript**, **Java (Spring Boot)**, and **Python (FastAPI)**  
