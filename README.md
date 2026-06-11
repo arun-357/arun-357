@@ -1,4 +1,4 @@
-# WHOAMI
+## WHOAMI
 
 - **Full Stack Engineer | Problem Solver**  
 - Specializing in **JavaScript**, **TypeScript**, **Java (Spring Boot)**, and **Python (FastAPI)**  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Tech Toolbox
+## Tech Toolbox
 
 **Languages:**  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript) 
