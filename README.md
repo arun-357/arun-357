@@ -77,14 +77,6 @@ class GodObject:
   *Local-first agentic coding platform — LLM agents read issues, plan and edit code via MCP tools, and open PRs automatically. Human-in-the-loop approval, real-time Socket.io streaming, and full offline support via Ollama.*  
   GitHub: [https://github.com/arun-357/agenthub](https://github.com/arun-357/agenthub)
 
-- **[Bento Portfolio](https://arunachalam.netlify.app/)** –  
-  *Terminal-style interactive portfolio with slash commands, dark/paper themes, CRT aesthetics, and a hidden Pac-Man easter egg. Built with React 19, TypeScript, Vite, and styled-components.*  
-  GitHub: [https://github.com/arun-357/bentoPortfolio](https://github.com/arun-357/bentoPortfolio)
-
-- **[Food Lens](https://food-lens-frontend.onrender.com/)** –  
-  *AI-powered full-stack app that analyzes food names to return descriptions, ingredients, benefits, and images. Spring Boot backend with JWT auth, 24h image-refresh caching, per-user rate limiting, and Gemini + Pixabay integration.*  
-  GitHub: [https://github.com/arun-357/food-lens-backend](https://github.com/arun-357/food-lens-backend)
-
 - **[LeetCode Flashcards](https://leetcode-flashcards.netlify.app/)** –  
   *Free, open-source flashcards for mastering LeetCode patterns. React + Chakra UI frontend backed by a Python BeautifulSoup scraper.*  
   GitHub: [https://github.com/arun-357/leetcode-flashcards](https://github.com/arun-357/leetcode-flashcards)
@@ -96,11 +88,7 @@ class GodObject:
 - **[Jane Street Market Prediction](https://github.com/arun-357/janeStreet-marketPrediction)** –  
   *Top 3% of 4,000+ competitors on the Jane Street Kaggle competition. XGBoost/LightGBM/DL models with feature engineering, time-series analysis, and risk control on real financial data.*  
   GitHub: [https://github.com/arun-357/janeStreet-marketPrediction](https://github.com/arun-357/janeStreet-marketPrediction)
-
-- **[Google Doc Clone](https://github.com/arun-357/googleDocClone)** –  
-  *Real-time collaborative text editor with concurrent editing, autosave, and persistence. Built with React, MongoDB, Socket.io, and Quill.js.*  
-  GitHub: [https://github.com/arun-357/googleDocClone](https://github.com/arun-357/googleDocClone)
-
+ 
 ---
 
 ## Connect with Me
