@@ -6,47 +6,52 @@
 
 ---
 
-## Tech Toolbox
+<h2 align="left">Tech</h2>
 
-**Languages:**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
-![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql)
+<h4 align="left">Languages</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-**Frontend:**  
-![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) 
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwind-css)
+<h4 align="left">Frontend</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
 
-**Backend:**  
-![NestJS](https://img.shields.io/badge/-NestJS-333?style=flat&logo=nestjs)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js) 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-333?style=flat&logo=spring)
-![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-333?style=flat&logo=fastapi)
+<h4 align="left">Backend</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
-**Databases & Messaging:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql) 
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis) 
-![Prisma](https://img.shields.io/badge/-Prisma-333?style=flat&logo=prisma)
-![Kafka](https://img.shields.io/badge/-Kafka-333?style=flat&logo=apache-kafka)
-![SQS](https://img.shields.io/badge/-SQS-333?style=flat&logo=amazon-sqs)
-![BullMQ](https://img.shields.io/badge/-BullMQ-333?style=flat&logo=redis)
+<h4 align="left">Databases &amp; Messaging</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white" />
+</p>
 
-**Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazonaws) 
-![ECS Fargate](https://img.shields.io/badge/-ECS%20Fargate-333?style=flat&logo=amazon-ecs)
-![EC2](https://img.shields.io/badge/-EC2-333?style=flat&logo=amazon-ec2)
-![Lambda](https://img.shields.io/badge/-Lambda-333?style=flat&logo=aws-lambda)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker) 
-![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat&logo=jenkins)
-![CloudWatch](https://img.shields.io/badge/-CloudWatch-333?style=flat&logo=amazon-cloudwatch)
-![Splunk](https://img.shields.io/badge/-Splunk-333?style=flat&logo=splunk)
-![Dynatrace](https://img.shields.io/badge/-Dynatrace-333?style=flat&logo=dynatrace)
+<h4 align="left">Cloud &amp; DevOps</h4>
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" />
+</p>
 
 ---
 
