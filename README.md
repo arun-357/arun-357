@@ -2,7 +2,7 @@
 
 - **Full Stack Engineer | Problem Solver**  
 - Specializing in **JavaScript**, **TypeScript**, **Java (Spring Boot)**, and **Python (FastAPI)**  
-- Passionate about **scalable backend architectures**, **clean code**, and **system design**.
+- Passionate about **scalable architectures**, **clean code**, and **system design**.
 
 ---
 
